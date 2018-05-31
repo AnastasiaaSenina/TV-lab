@@ -1,0 +1,6 @@
+﻿  Generation.cpp
+Generation.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Generation.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Generation.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Generation.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  tv.vcxproj -> C:\Users\Anastasia\source\repos\tv\Debug\tv.exe
